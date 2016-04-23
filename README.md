@@ -7,3 +7,5 @@ http://workshops.ko-opmode.com/
 ## Blender to Unity
 http://www.zakjr.com/blog/blender-to-unity-workflow-part-1/
 
+## Holographic Academy
+https://developer.microsoft.com/en-us/windows/holographic/academy
